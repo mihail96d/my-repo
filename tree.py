@@ -1,2 +1,1 @@
-print("Oak")
-print("is tree")
+print("Oak is a tree")
